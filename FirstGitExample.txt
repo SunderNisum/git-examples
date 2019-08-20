@@ -1,1 +1,2 @@
-This is my first text file into the git
+This is my first text file into the git.
+For another time.
